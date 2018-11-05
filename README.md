@@ -3,6 +3,7 @@
 Boilerplate of asychronous module loading by requirejs Type Script React project.
 
 Key features:
+
 1 React project
 2 Asynchronous module loading by requirejs
 3 Type Script source
