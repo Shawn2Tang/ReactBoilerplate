@@ -1,6 +1,6 @@
 # Asynchronous Module Loading Type Script React Boilerplate
 
-Boilerplate of asychronous module loading by requirejs Type Script React project.
+Boilerplate of asynchronous module loading by requirejs Type Script React project.
 
 Key features:
 
