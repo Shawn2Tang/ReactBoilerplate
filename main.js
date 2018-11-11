@@ -5,7 +5,7 @@ var process={
 };
 
 requirejs.config({
-    "baseUrl": "./dist/Scripts/Modules",
+    "baseUrl": "./dist/Scripts",
     "paths": {
         "css": '../../../../css',
         "react": "../../../../node_modules/react/umd/react.development",
