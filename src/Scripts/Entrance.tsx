@@ -3,7 +3,7 @@ import * as ReactDOM from 'react-dom';
 
 import App from './App';
 
-import 'css!../Contents/bootstrap/css/bootstrap.css';
+import 'css!../../Contents/bootstrap/bootstrap.css';
 
 export const Run=(domNode)=>{
     
